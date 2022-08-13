@@ -1,0 +1,1 @@
+<td class="txt--center">@{{ ${!! $modelVariable !!}->{!! $fieldName !!} }}</td>

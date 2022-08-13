@@ -1,0 +1,1 @@
+<th class="txt--center">{!! $fieldTitle !!}</th>
