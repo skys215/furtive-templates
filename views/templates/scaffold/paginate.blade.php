@@ -1,0 +1,1 @@
+@@include('furtive-templates::common.paginate', ['records' => ${!! $config->modelNames->camelPlural !!}])
